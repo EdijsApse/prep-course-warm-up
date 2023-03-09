@@ -4,7 +4,8 @@
   "description": "Each file in this directory is a separate exercise, which you can execute with `ts-node`.",
   "main": "index.js",
   "scripts": {
-    "ts": "ts-node"
+    "ts": "ts-node",
+    "auto-number": "node file-numbering.js"
   },
   "author": "",
   "license": "ISC",
